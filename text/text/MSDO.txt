@@ -1,0 +1,22 @@
+adhesive: squishy, thin, plastic
+allen : curved, hard, short
+ball: springy, circle, light
+bottle: smooth, thick, cylindrical
+box: angular, light, square
+branch: bumpy, rough, light
+caliper: plastic, irregular, light
+can: hard, smooth, metallic
+hand: soft, irregular, thin
+highlighter: light, cylindrical, long
+key: metallic, thin, short
+pen: hard, metallic, cylindrical
+piler: metallic, irregular, heavy
+rock: hard, rough, heavy
+rubber: compressible, square, springy
+scissors: metallic, porous, irregular
+sticky tape: porous, thin, round
+tube: hard, porous, long
+
+
+
+
